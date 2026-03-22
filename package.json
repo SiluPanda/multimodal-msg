@@ -1,6 +1,6 @@
 {
   "name": "multimodal-msg",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Provider-agnostic multimodal message builder",
   "type": "module",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsc",
+    "build": "rimraf dist && tsc",
     "test": "vitest run",
     "lint": "eslint src/",
     "prepublishOnly": "npm run build"
