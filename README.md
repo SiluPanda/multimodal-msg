@@ -3,6 +3,7 @@
 Provider-agnostic multimodal message builder for OpenAI, Anthropic, and Gemini APIs.
 
 [![npm version](https://img.shields.io/npm/v/multimodal-msg.svg)](https://www.npmjs.com/package/multimodal-msg)
+[![npm downloads](https://img.shields.io/npm/dt/multimodal-msg.svg)](https://www.npmjs.com/package/multimodal-msg)
 [![license](https://img.shields.io/npm/l/multimodal-msg.svg)](https://github.com/SiluPanda/multimodal-msg/blob/master/LICENSE)
 [![node](https://img.shields.io/node/v/multimodal-msg.svg)](https://www.npmjs.com/package/multimodal-msg)
 
